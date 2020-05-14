@@ -1,7 +1,6 @@
 package test.com.codewars.training;
 
 import main.com.codewars.training.Split.ArraySplitter;
-import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
