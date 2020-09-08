@@ -1,4 +1,4 @@
-package main.com.codewars.training.Split;
+package com.codewars.training.split;
 
 import java.util.Arrays;
 

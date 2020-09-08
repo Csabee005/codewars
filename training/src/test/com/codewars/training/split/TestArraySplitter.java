@@ -1,6 +1,6 @@
-package test.com.codewars.training;
+package com.codewars.training.split;
 
-import main.com.codewars.training.Split.ArraySplitter;
+import com.codewars.training.split.ArraySplitter;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
