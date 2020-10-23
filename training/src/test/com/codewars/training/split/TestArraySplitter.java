@@ -9,6 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestArraySplitter {
 
+    // Testing ssh key
     @Test
     public void splitAndAdd() throws Exception {
 
