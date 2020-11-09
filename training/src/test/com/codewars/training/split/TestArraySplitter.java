@@ -1,11 +1,11 @@
 package com.codewars.training.split;
 
 import com.codewars.training.split.ArraySplitter;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.*;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class TestArraySplitter {
 
